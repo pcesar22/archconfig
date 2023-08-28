@@ -1,0 +1,17 @@
+shell:
+  program: /usr/bin/zsh
+  args:
+    - --login
+
+
+import:
+  - ~/.config/alacritty/themes/themes/github_dark.yaml
+
+font:
+  normal:
+    family: jetbrains mono nerd font
+  size: 13.0
+
+
+window:
+  opacity: 0.94
